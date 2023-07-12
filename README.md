@@ -1,5 +1,5 @@
-# 💫 About Me:
-Working on front-end technologies.<br>Seeking collaborations for full-stack projects.<br>Focused on learning advanced data structures and algorithms.<br>Ask me about C++, Python, and Django.<br>
+#                                                                                                    Hi, I'm Tanish:
+🔭 Working on front-end technologies.<br>🤝Seeking collaborations for full-stack projects.<br>🌱Focused on learning advanced data structures and algorithms.<br>🗨️Ask me about C++, Python, and Django.<br>
 
 
 ## 🌐 Socials:
